@@ -34,8 +34,6 @@
 ## 📊Github Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ak517ayakshay&langs_count=10&show_icons=true&locale=en&theme=radical" alt="ak517ayakshay" /></p>
-
-<p>&nbsp;<img align="center" src="" alt="100percentBAKA" /></p>
  
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ak517ayakshay&theme=radical" alt="100percentBAKA" /></p>
 
