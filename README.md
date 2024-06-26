@@ -6,7 +6,7 @@
 
 ### 🎯 Goals: Hustle to get into 0.1%
 
-## [My-portfolio](https://ak517ay.vercel.app/)
+## [ak517ay.com](https://ak517ay.vercel.app/)
 ## 🚀 Connect with me
 
 
