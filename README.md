@@ -1,33 +1,33 @@
-# I'm [Adarsh G S](https://github.com/100percentBAKA)
+# I'm [AKSHAY KUMAR](https://github.com/ak517ayakshay)
 
 ## About me
 
-### ✨ Currently learning progressive web applications, electronJS and react native
+### ✨ Currently learning advanced Django, and React.
 
 ### 🎯 Goals: Hustle to get into 0.1%
 
 ## 🚀 Connect with me
 
-[![Github](https://skillicons.dev/icons?i=github)](https://github.com/100percentBAKA)
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/adarshgs/)
+[![Github](https://skillicons.dev/icons?i=github)](https://github.com/ak517ayakshay)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/akshay-kumar-7a8857255/)
 
 ## 🛠Skills
 
 ### I Code in
 
-[![I Code in](https://skillicons.dev/icons?i=c,cpp,python,java,kotlin,js)](https://github.com/keshavop)
+[![I Code in](https://skillicons.dev/icons?i=c,cpp,python)](https://github.com/ak517ayakshay)
 
 ### Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,materialui,figma)](https://github.com/100percentBAKA)
+[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma)](https://github.com/100percentBAKA)
 
 ### Backend
 
-[![Backend](https://skillicons.dev/icons?i=spring,mongo,mysql,postgres,firebase,appwrite,aws)](https://github.com/100percentBAKA)
+[![Backend](https://skillicons.dev/icons?i=mysql,django)](https://github.com/100percentBAKA)
 
 ### Tools
 
-[![Tools](https://skillicons.dev/icons?i=git,github,githubactions,linux,androidstudio,docker,vscode,idea,md)](https://github.com/100percentBAKA)
+[![Tools](https://skillicons.dev/icons?i=git,github,githubactions,vercel,vscode)](https://github.com/100percentBAKA)
 
 <hr>
 
