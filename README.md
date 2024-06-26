@@ -33,11 +33,11 @@
 
 ## 📊Github Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=100percentBAKA&langs_count=10&show_icons=true&locale=en&theme=radical" alt="100percentBAKA" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ak517ayakshay&langs_count=10&show_icons=true&locale=en&theme=radical" alt="ak517ayakshay" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=100percentBAKA&show_icons=true&locale=en&theme=radical" alt="100percentBAKA" /></p>
+<p>&nbsp;<img align="center" src="" alt="100percentBAKA" /></p>
  
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=100percentBAKA&theme=radical" alt="100percentBAKA" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ak517ayakshay&theme=radical" alt="100percentBAKA" /></p>
 
 <h2 align="center">
 <img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot.gif?alt=media&token=27a30ea7-24f3-46db-97bd-69351d5411ea" width="31" height="31"/>
@@ -60,19 +60,17 @@
 ## ⚒Projects
 
 ### Live Projects
-- [Aora Native](https://github.com/100percentBAKA/aora-native)
-- [Student Grievance Portal (Private)](https://github.com/100percentBAKA/student-grievance)
-- [Sf Admin Portal (Private)](https://github.com/100percentBAKA/sf-dashboard)
-- [Car Rental (Frontend)](https://github.com/100percentBAKA/car-rental-portal)
-- [Grocery Management Portal](https://github.com/100percentBAKA/grocery-management-portal)
-- [Real Estate Landing Page (Frontend)](https://github.com/100percentBAKA/mui-landing-page)
-- [FaxxShare](https://github.com/100percentBAKA/what-I-learnt)
-- [Compose Calculator](https://github.com/100percentBAKA/calculator-compose-app)
+- [C.L.A.S.S](https://github.com/ak517ayakshay/C.L.A.S.S)
+- [PRECISION-VISION](Process under patent)
+- [SCHOLATA](https://github.com/ak517ayakshay/project-scholata)
+- [ATTEND](https://github.com/ak517ayakshay/project-attendence-shortage)
+- [akydrive](https://github.com/ak517ayakshay/project-pcdrive)
+
 
 ### Practice
-- [Firebase](https://github.com/100percentBAKA/firebase-basics)
-- [React Query Basics](https://github.com/100percentBAKA/react-query)
-- [React Router Basics](https://github.com/100percentBAKA/react-router-basics)
-- [React Basic](https://github.com/100percentBAKA/react-basics)
-- [JS DOM Intermediate](https://github.com/100percentBAKA/javascript-dom-manipulation-intermediate)
-- [JS DOM Basics](https://github.com/100percentBAKA/javascript-dom-manipulation-basics)
+- [MySQL](https://github.com/ak517ayakshay/my-sql)
+- [Supervised Learning](https://github.com/ak517ayakshay/supervised-learning)
+- [Python](https://github.com/ak517ayakshay/python)
+- [Java](https://github.com/ak517ayakshay/javamain)
+- [C++](https://github.com/ak517ayakshay/c-)
+
