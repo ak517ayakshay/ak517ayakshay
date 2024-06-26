@@ -59,7 +59,7 @@
 
 ### Live Projects
 - [C.L.A.S.S](https://github.com/ak517ayakshay/C.L.A.S.S)
-- [PRECISION-VISION](Process under patent)
+- [PRECISION-VISION](https://github.com/ak517ayakshay/PRECISION-VISION)
 - [SCHOLATA](https://github.com/ak517ayakshay/project-scholata)
 - [ATTEND](https://github.com/ak517ayakshay/project-attendence-shortage)
 - [akydrive](https://github.com/ak517ayakshay/project-pcdrive)
