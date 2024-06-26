@@ -19,15 +19,15 @@
 
 ### Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma)](https://github.com/ak51ayakshay)
+[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma)](https://github.com/ak517ayakshay)
 
 ### Backend
 
-[![Backend](https://skillicons.dev/icons?i=mysql,django)](https://github.com/ak51ayakshay)
+[![Backend](https://skillicons.dev/icons?i=mysql,django)](https://github.com/ak517ayakshay)
 
 ### Tools
 
-[![Tools](https://skillicons.dev/icons?i=git,github,githubactions,vercel,vscode)](https://github.com/ak51ayakshay)
+[![Tools](https://skillicons.dev/icons?i=git,github,githubactions,vercel,vscode)](https://github.com/ak517ayakshay)
 
 <hr>
 
