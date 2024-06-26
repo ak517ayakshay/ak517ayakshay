@@ -19,15 +19,15 @@
 
 ### Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma)](https://github.com/100percentBAKA)
+[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma)](https://github.com/ak51ayakshay)
 
 ### Backend
 
-[![Backend](https://skillicons.dev/icons?i=mysql,django)](https://github.com/100percentBAKA)
+[![Backend](https://skillicons.dev/icons?i=mysql,django)](https://github.com/ak51ayakshay)
 
 ### Tools
 
-[![Tools](https://skillicons.dev/icons?i=git,github,githubactions,vercel,vscode)](https://github.com/100percentBAKA)
+[![Tools](https://skillicons.dev/icons?i=git,github,githubactions,vercel,vscode)](https://github.com/ak51ayakshay)
 
 <hr>
 
@@ -35,13 +35,13 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ak517ayakshay&langs_count=10&show_icons=true&locale=en&theme=radical" alt="ak517ayakshay" /></p>
  
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ak517ayakshay&theme=radical" alt="100percentBAKA" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ak517ayakshay&theme=radical" alt="ak517ayakshay" /></p>
 
 <h2 align="center">
 <img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot.gif?alt=media&token=27a30ea7-24f3-46db-97bd-69351d5411ea" width="31" height="31"/>
 <img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot.gif?alt=media&token=27a30ea7-24f3-46db-97bd-69351d5411ea" width="31" height="31"/>
 <img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot.gif?alt=media&token=27a30ea7-24f3-46db-97bd-69351d5411ea" width="31" height="31"/>
-<img src="https://komarev.com/ghpvc/?username=100percentBAKA&&style=round-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=ak517ayakshay&&style=round-square" align="center" />
 <img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot-2.gif?alt=media&token=4d7be19e-492c-4f18-9ea2-3773989b2721" width="31" height="31"/>
 <img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot-2.gif?alt=media&token=4d7be19e-492c-4f18-9ea2-3773989b2721" width="31" height="31"/>
 <img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot-2.gif?alt=media&token=4d7be19e-492c-4f18-9ea2-3773989b2721" width="31" height="31"/>
