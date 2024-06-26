@@ -64,7 +64,7 @@
 - [PRECISION-VISION](https://github.com/ak517ayakshay/PRECISION-VISION)
 - [SCHOLATA](https://github.com/ak517ayakshay/project-scholata)
 - [ATTEND](https://github.com/ak517ayakshay/project-attendence-shortage)
-- [akydrive](https://github.com/ak517ayakshay/project-pcdrive)
+- [AKYDRIVE](https://github.com/ak517ayakshay/project-pcdrive)
 
 
 ### Practice
