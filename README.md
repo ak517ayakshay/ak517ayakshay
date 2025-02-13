@@ -61,7 +61,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50" height="50"/>
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50" height="50"/>
-  <img src="https://komarev.com/ghpvc/?username=ak517ayakshay&style=flat-square&label=Profile+Views:+2000%2B" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=ak517ayakshay&style=flat-square&label=Profile+Views:+2006" align="center" />
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50" height="50"/>
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50" height="50"/>
 </p>
