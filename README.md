@@ -1,74 +1,96 @@
-# 👋 Hello there! I'm [AKSHAY KUMAR](https://github.com/ak517ayakshay)
+# 👋 Hello there! I'm [AKSHAY KUMAR](https://github.com/ak517ayakshay)  
 
-## About me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Passionate+about+Django+and+React;Striving+for+Excellence" alt="Typing SVG" />
+</p>
 
-### ✨ Currently learning advanced Django, and React.
+---
 
-### 🎯 Goals: Hustle to get into 0.1%
+## 🚀 About Me  
+🎯 **Hustling to be in the top 0.1%**  
+✨ Currently diving deep into **Advanced Django & React**  
 
-## [ak517ay.com](https://ak517ay.vercel.app/)
-## 🚀 Connect with me
+[🌐 Visit My Portfolio](https://ak517ay.vercel.app/)
 
+---
 
-[![Github](https://skillicons.dev/icons?i=github)](https://github.com/ak517ayakshay)
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/akshay-kumar-7a8857255/)
+## 🚀 Connect with Me  
+<p align="left">
+  <a href="https://github.com/ak517ayakshay">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/akshay-kumar-7a8857255/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+</p>
 
-## 🛠Skills
+---
 
-### I Code in
+## 🛠 Tech Stack  
 
-[![I Code in](https://skillicons.dev/icons?i=c,cpp,python)](https://github.com/ak517ayakshay)
+### 💻 I Code in  
+[![Languages](https://skillicons.dev/icons?i=c,cpp,python)](https://github.com/ak517ayakshay)  
 
-### Frontend
+### 🌐 Frontend  
+[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma)](https://github.com/ak517ayakshay)  
 
-[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma)](https://github.com/ak517ayakshay)
+### 🖥️ Backend  
+[![Backend](https://skillicons.dev/icons?i=mysql,django)](https://github.com/ak517ayakshay)  
 
-### Backend
+### 🔧 Tools  
+[![Tools](https://skillicons.dev/icons?i=git,github,githubactions,vercel,vscode)](https://github.com/ak517ayakshay)  
 
-[![Backend](https://skillicons.dev/icons?i=mysql,django)](https://github.com/ak517ayakshay)
+---
 
-### Tools
+## 📊 GitHub Stats  
 
-[![Tools](https://skillicons.dev/icons?i=git,github,githubactions,vercel,vscode)](https://github.com/ak517ayakshay)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ak517ayakshay&langs_count=10&show_icons=true&locale=en&theme=radical" alt="Top Languages"/>
+</p>
 
-<hr>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ak517ayakshay&theme=radical" alt="GitHub Streak"/>
+</p>
 
-## 📊Github Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ak517ayakshay&langs_count=10&show_icons=true&locale=en&theme=radical" alt="ak517ayakshay" /></p>
- 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ak517ayakshay&theme=radical" alt="ak517ayakshay" /></p>
+---
 
 <h2 align="center">
-<img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot.gif?alt=media&token=27a30ea7-24f3-46db-97bd-69351d5411ea" width="31" height="31"/>
-<img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot.gif?alt=media&token=27a30ea7-24f3-46db-97bd-69351d5411ea" width="31" height="31"/>
-<img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot.gif?alt=media&token=27a30ea7-24f3-46db-97bd-69351d5411ea" width="31" height="31"/>
-<img src="https://komarev.com/ghpvc/?username=100percentBAKA&&style=round-square" align="center" />
-<img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot-2.gif?alt=media&token=4d7be19e-492c-4f18-9ea2-3773989b2721" width="31" height="31"/>
-<img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot-2.gif?alt=media&token=4d7be19e-492c-4f18-9ea2-3773989b2721" width="31" height="31"/>
-<img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2Fparty-parrot-2.gif?alt=media&token=4d7be19e-492c-4f18-9ea2-3773989b2721" width="31" height="31"/>
+  🎉 Party Zone 🎉
 </h2>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50" height="50"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50" height="50"/>
+  <img src="https://komarev.com/ghpvc/?username=ak517ayakshay&style=flat-square" align="center" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50" height="50"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50" height="50"/>
+</p>
+
+---
+
+## 🐍 My Contributions  
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  <br/>
+  <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
-## ⚒Projects
+---
 
-### Live Projects
-- [C.L.A.S.S](https://github.com/ak517ayakshay/C.L.A.S.S)
-- [PRECISION-VISION](https://github.com/ak517ayakshay/PRECISION-VISION)
-- [SCHOLATA](https://github.com/ak517ayakshay/project-scholata)
-- [ATTEND](https://github.com/ak517ayakshay/project-attendence-shortage)
-- [AKYDRIVE](https://github.com/ak517ayakshay/project-pcdrive)
+## ⚒ Projects  
 
+### 🔥 Live Projects  
+- [C.L.A.S.S](https://github.com/ak517ayakshay/C.L.A.S.S)  
+- [PRECISION-VISION](https://github.com/ak517ayakshay/PRECISION-VISION)  
+- [SCHOLATA](https://github.com/ak517ayakshay/project-scholata)  
+- [ATTEND](https://github.com/ak517ayakshay/project-attendence-shortage)  
+- [AKYDRIVE](https://github.com/ak517ayakshay/project-pcdrive)  
 
-### Practice
-- [MySQL](https://github.com/ak517ayakshay/my-sql)
-- [Supervised Learning](https://github.com/ak517ayakshay/supervised-learning)
-- [Python](https://github.com/ak517ayakshay/python)
-- [Java](https://github.com/ak517ayakshay/javamain)
-- [C++](https://github.com/ak517ayakshay/c-)
+### 💡 Practice  
+- [MySQL](https://github.com/ak517ayakshay/my-sql)  
+- [Supervised Learning](https://github.com/ak517ayakshay/supervised-learning)  
+- [Python](https://github.com/ak517ayakshay/python)  
+- [Java](https://github.com/ak517ayakshay/javamain)  
+- [C++](https://github.com/ak517ayakshay/c-)  
 
+---
+
+✨ _"Code, Build, Innovate!"_ ✨
