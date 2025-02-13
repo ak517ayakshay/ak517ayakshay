@@ -55,8 +55,6 @@
   <br/>
 </div>
 
-![](https://i.imgur.com/waxVImv.png)
-
 ## ⚒Projects
 
 ### Live Projects
