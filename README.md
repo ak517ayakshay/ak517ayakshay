@@ -49,9 +49,7 @@ Ex-Intern @ IISc,Bangalore
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ak517ayakshay&langs_count=10&show_icons=true&locale=en&theme=radical" alt="Top Languages"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ak517ayakshay&theme=radical" alt="GitHub Streak"/>
-</p>
+
 
 ---
 
