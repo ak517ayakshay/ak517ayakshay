@@ -1,91 +1,73 @@
-<h1 align="center">
-  🔮 Digital Innovation & Engineering Excellence
-</h1>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=640&lines=System+Architecture+%7C+Full-Stack+Development;Research+%26+Innovation+%7C+Technical+Leadership;Building+Tomorrow's+Solutions+Today" alt="Expertise" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=640&lines=Senior+Full-Stack+Engineer;System+Architecture+Specialist;IISc+Research+Associate" alt="Professional Title"/>
 </div>
 
-```python
-class TechnicalArchitect:
-    def __init__(self):
-        self.name = "Akshay Kumar"
-        self.role = "Full-Stack System Architect"
-        self.organization = "Ex-IISc Research Intern"
-        self.expertise = {
-            "backend": ["Django", "MySQL", "System Design"],
-            "architecture": ["Microservices", "API Design", "Database Optimization"],
-            "dev_ops": ["Git", "GitHub Actions", "Vercel"],
-            "interests": ["Scalable Systems", "Performance Optimization", "Security"]
-        }
-    
-    def get_mission(self):
-        return """
-        Dedicated to crafting robust, scalable solutions that 
-        push the boundaries of technological innovation while 
-        maintaining the highest standards of code quality and 
-        system architecture.
-        """
+# Akshay Kumar
+> **Senior Full-Stack Engineer | Ex-IISc Research Associate**  
+> Specializing in scalable enterprise solutions and system architecture
 
-me = TechnicalArchitect()
-```
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ak517ay.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-kumar-7a8857255/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ak517ayakshay)
 
-## 📊 Technical Proficiency
+## Professional Summary
+Senior Full-Stack Engineer with extensive experience in enterprise solution development and research background at the Indian Institute of Science (IISc). Specialized in developing scalable applications with focus on system architecture, performance optimization, and security implementation.
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak517ayakshay&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=8892b0&icon_color=64ffda" alt="Top Languages" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=ak517ayakshay&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=8892b0&icon_color=64ffda" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
+## Technical Expertise
 
-## 🔥 Core Projects
+### Development Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-<table align="center">
-  <tr>
-    <td>
-      <h3>Enterprise Solutions</h3>
-      <ul>
-        <li><a href="https://github.com/ak517ayakshay/C.L.A.S.S">C.L.A.S.S</a> - Enterprise Learning Management System</li>
-        <li><a href="https://github.com/ak517ayakshay/PRECISION-VISION">PRECISION-VISION</a> - Advanced Computer Vision Platform</li>
-        <li><a href="https://github.com/ak517ayakshay/project-scholata">SCHOLATA</a> - Educational Technology Solution</li>
-      </ul>
-    </td>
-    <td>
-      <h3>Technical Research</h3>
-      <ul>
-        <li><a href="https://github.com/ak517ayakshay/supervised-learning">Machine Learning Research</a></li>
-        <li><a href="https://github.com/ak517ayakshay/my-sql">Database Optimization Studies</a></li>
-        <li><a href="https://github.com/ak517ayakshay/python">Advanced Python Implementations</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## 📈 Contribution Graph
+## Featured Projects
+
+### Enterprise Solutions
+- **[C.L.A.S.S](https://github.com/ak517ayakshay/C.L.A.S.S)**  
+  Enterprise-grade Learning Management System featuring advanced analytics and personalized learning pathways.
+  > `Python` `Django` `MySQL` `Analytics`
+
+- **[PRECISION-VISION](https://github.com/ak517ayakshay/PRECISION-VISION)**  
+  High-performance computer vision system for real-time object detection and analysis.
+  > `Computer Vision` `Python` `Deep Learning`
+
+- **[SCHOLATA](https://github.com/ak517ayakshay/project-scholata)**  
+  Comprehensive educational technology platform with integrated assessment tools.
+  > `Django` `MySQL` `Bootstrap`
+
+### Research & Development
+- **[Machine Learning Research](https://github.com/ak517ayakshay/supervised-learning)**  
+  Advanced implementations of supervised learning algorithms and optimization techniques.
+
+- **[Database Architecture](https://github.com/ak517ayakshay/my-sql)**  
+  Research on database optimization and high-performance query execution.
+
+## Professional Metrics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" alt="Contributions" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ak517ayakshay&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=333333"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak517ayakshay&layout=compact&theme=transparent&hide_border=true&title_color=2F80ED&text_color=333333"/>
 </div>
 
-## 🤝 Professional Network
+## Development Activity
 
 <div align="center">
-  <a href="https://ak517ay.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/akshay-kumar-7a8857255/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=ak517ayakshay&style=for-the-badge&color=64ffda&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" alt="Development Activity"/>
 </div>
 
 ---
 
 <div align="center">
-  <i>"Engineering excellence is not just about writing code; it's about architecting solutions that stand the test of time."</i>
+  <img src="https://komarev.com/ghpvc/?username=ak517ayakshay&style=flat-square&color=2F80ED&label=Profile+Views"/>
 </div>
