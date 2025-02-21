@@ -9,7 +9,7 @@
 ## 🚀 About Me  
 Ex-Intern @ IISc,Bangalore  
 🎯 **Hustling to be in the top 0.1%**  
-✨ Currently diving deep into **Advanced Django & React**  
+✨ Currently diving deep into **Advanced Django **
 
 [🌐 Visit My Portfolio](https://ak517ay.vercel.app/)
 
