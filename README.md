@@ -1,143 +1,91 @@
 <h1 align="center">
-  ⚡️ Akshay Kumar | Digital Architect ⚡️
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=640&lines=Building+the+Future+with+Code;Turning+Complex+Problems+into+Elegant+Solutions;Creating+Impact+Through+Technology;Ex-IISc+Research+Intern" alt="Typing SVG" />
+  🔮 Digital Innovation & Engineering Excellence
 </h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ak517ayakshay&label=Visionary+Minds&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=640&lines=System+Architecture+%7C+Full-Stack+Development;Research+%26+Innovation+%7C+Technical+Leadership;Building+Tomorrow's+Solutions+Today" alt="Expertise" />
 </div>
-
----
-
-<h2 align="center">🎯 Mission Statement</h2>
 
 ```python
-class DigitalArchitect:
+class TechnicalArchitect:
     def __init__(self):
         self.name = "Akshay Kumar"
-        self.role = "Full-Stack Engineer"
-        self.experience = "IISc Research Intern"
-        self.languages = ["Python", "C++", "C"]
-        self.mission = "Crafting digital solutions that transform ideas into reality"
-        
-    def current_focus(self):
-        return "Mastering Advanced Django Architecture and System Design"
-        
-    def fun_fact(self):
-        return "I believe every line of code has the potential to change the world"
+        self.role = "Full-Stack System Architect"
+        self.organization = "Ex-IISc Research Intern"
+        self.expertise = {
+            "backend": ["Django", "MySQL", "System Design"],
+            "architecture": ["Microservices", "API Design", "Database Optimization"],
+            "dev_ops": ["Git", "GitHub Actions", "Vercel"],
+            "interests": ["Scalable Systems", "Performance Optimization", "Security"]
+        }
+    
+    def get_mission(self):
+        return """
+        Dedicated to crafting robust, scalable solutions that 
+        push the boundaries of technological innovation while 
+        maintaining the highest standards of code quality and 
+        system architecture.
+        """
 
-me = DigitalArchitect()
+me = TechnicalArchitect()
 ```
 
----
-
-<h2 align="center">🛠️ Technical Arsenal</h2>
+## 📊 Technical Proficiency
 
 <table align="center">
   <tr>
-    <td align="center">
-      <h3>Core Engineering</h3>
-      <img src="https://skillicons.dev/icons?i=c,cpp,python" /><br>
-      <i>Building Foundations</i>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak517ayakshay&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=8892b0&icon_color=64ffda" alt="Top Languages" />
     </td>
-    <td align="center">
-      <h3>Frontend Crafting</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma" /><br>
-      <i>Designing Experiences</i>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3>Backend Architecture</h3>
-      <img src="https://skillicons.dev/icons?i=mysql,django" /><br>
-      <i>Powering Solutions</i>
-    </td>
-    <td align="center">
-      <h3>Development Arsenal</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,vscode" /><br>
-      <i>Crafting Excellence</i>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=ak517ayakshay&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=8892b0&icon_color=64ffda" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
 
----
-
-<h2 align="center">🌟 Digital Portfolio</h2>
+## 🔥 Core Projects
 
 <table align="center">
   <tr>
     <td>
-      <h3>🏗️ Flagship Projects</h3>
+      <h3>Enterprise Solutions</h3>
       <ul>
-        <li>
-          <a href="https://github.com/ak517ayakshay/C.L.A.S.S">C.L.A.S.S</a><br>
-          <i>Revolutionary learning management system transforming educational paradigms</i>
-        </li>
-        <li>
-          <a href="https://github.com/ak517ayakshay/PRECISION-VISION">PRECISION-VISION</a><br>
-          <i>Advanced computer vision system pushing the boundaries of visual recognition</i>
-        </li>
-        <li>
-          <a href="https://github.com/ak517ayakshay/project-scholata">SCHOLATA</a><br>
-          <i>Next-gen educational platform redefining academic excellence</i>
-        </li>
+        <li><a href="https://github.com/ak517ayakshay/C.L.A.S.S">C.L.A.S.S</a> - Enterprise Learning Management System</li>
+        <li><a href="https://github.com/ak517ayakshay/PRECISION-VISION">PRECISION-VISION</a> - Advanced Computer Vision Platform</li>
+        <li><a href="https://github.com/ak517ayakshay/project-scholata">SCHOLATA</a> - Educational Technology Solution</li>
       </ul>
     </td>
     <td>
-      <h3>🧪 Research & Innovation</h3>
+      <h3>Technical Research</h3>
       <ul>
-        <li>
-          <a href="https://github.com/ak517ayakshay/supervised-learning">ML Research</a><br>
-          <i>Pioneering supervised learning algorithms</i>
-        </li>
-        <li>
-          <a href="https://github.com/ak517ayakshay/my-sql">Database Architecture</a><br>
-          <i>Advanced MySQL implementations and optimizations</i>
-        </li>
-        <li>
-          <a href="https://github.com/ak517ayakshay/python">Python Innovation Lab</a><br>
-          <i>Experimental Python patterns and practices</i>
-        </li>
+        <li><a href="https://github.com/ak517ayakshay/supervised-learning">Machine Learning Research</a></li>
+        <li><a href="https://github.com/ak517ayakshay/my-sql">Database Optimization Studies</a></li>
+        <li><a href="https://github.com/ak517ayakshay/python">Advanced Python Implementations</a></li>
       </ul>
     </td>
   </tr>
 </table>
 
----
+## 📈 Contribution Graph
 
 <div align="center">
-  <h2>📊 Innovation Metrics</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ak517ayakshay&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&custom_title=Technology%20Spectrum" alt="Technology Spectrum" />
+  <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" alt="Contributions" />
 </div>
 
----
-
-<h2 align="center">🌐 Digital Presence</h2>
+## 🤝 Professional Network
 
 <div align="center">
-  <a href="https://ak517ay.vercel.app/" target="_blank">
+  <a href="https://ak517ay.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/akshay-kumar-7a8857255/" target="_blank">
+  <a href="https://www.linkedin.com/in/akshay-kumar-7a8857255/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/ak517ayakshay" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=ak517ayakshay&style=for-the-badge&color=64ffda&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 ---
 
 <div align="center">
-  <h2>🌿 Growth Journey</h2>
-  <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" alt="Contribution Growth" />
-</div>
-
-<div align="center">
-  <h3>💭 Engineering Philosophy</h3>
-  
-  ```
-  "Innovation is not about what we create, 
-   but about the problems we solve and the lives we improve."
-  ```
+  <i>"Engineering excellence is not just about writing code; it's about architecting solutions that stand the test of time."</i>
 </div>
