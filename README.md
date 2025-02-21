@@ -1,5 +1,5 @@
 <h1 align="center">
-  ⚡️ Akshay Kumar | Digital Architect ⚡️
+  Akshay Kumar 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=640&lines=Building+the+Future+with+Code;Turning+Complex+Problems+into+Elegant+Solutions;Creating+Impact+Through+Technology;Ex-IISc+Project+Intern" alt="Typing SVG" />
 </h1>
 
