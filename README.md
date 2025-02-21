@@ -1,73 +1,341 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=640&lines=Senior+Full-Stack+Engineer;System+Architecture+Specialist;IISc+Research+Associate" alt="Professional Title"/>
-</div>
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    :root {
+      --primary: #2193b0;
+      --gradient: linear-gradient(135deg, #2193b0 0%, #6dd5ed 100%);
+      --dark: #1a1a1a;
+      --light: #ffffff;
+      --card-bg: rgba(255, 255, 255, 0.05);
+    }
 
-# Akshay Kumar
-> **Senior Full-Stack Engineer | Ex-IISc Research Associate**  
-> Specializing in scalable enterprise solutions and system architecture
+    body {
+      background: var(--dark);
+      color: var(--light);
+      font-family: 'Inter', sans-serif;
+      margin: 0;
+      padding: 40px;
+    }
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ak517ay.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-kumar-7a8857255/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ak517ayakshay)
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
 
-## Professional Summary
-Senior Full-Stack Engineer with extensive experience in enterprise solution development and research background at the Indian Institute of Science (IISc). Specialized in developing scalable applications with focus on system architecture, performance optimization, and security implementation.
+    .hero {
+      display: flex;
+      align-items: center;
+      gap: 40px;
+      padding: 60px 0;
+      border-radius: 20px;
+      background: var(--gradient);
+      position: relative;
+      overflow: hidden;
+    }
 
-## Technical Expertise
+    .hero::before {
+      content: '';
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      background: url('/api/placeholder/1200/400') center/cover;
+      opacity: 0.1;
+      animation: pulse 4s infinite;
+    }
 
-### Development Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+    @keyframes pulse {
+      0% { opacity: 0.1; }
+      50% { opacity: 0.2; }
+      100% { opacity: 0.1; }
+    }
 
-### Development Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+    .profile-img {
+      width: 200px;
+      height: 200px;
+      border-radius: 20px;
+      border: 4px solid var(--light);
+      box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+      margin-left: 40px;
+      position: relative;
+      z-index: 1;
+    }
 
-## Featured Projects
+    .hero-content {
+      position: relative;
+      z-index: 1;
+    }
 
-### Enterprise Solutions
-- **[C.L.A.S.S](https://github.com/ak517ayakshay/C.L.A.S.S)**  
-  Enterprise-grade Learning Management System featuring advanced analytics and personalized learning pathways.
-  > `Python` `Django` `MySQL` `Analytics`
+    .hero-title {
+      font-size: 3em;
+      margin: 0;
+      font-weight: 800;
+      background: var(--light);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
 
-- **[PRECISION-VISION](https://github.com/ak517ayakshay/PRECISION-VISION)**  
-  High-performance computer vision system for real-time object detection and analysis.
-  > `Computer Vision` `Python` `Deep Learning`
+    .hero-subtitle {
+      font-size: 1.5em;
+      margin: 10px 0;
+      opacity: 0.9;
+    }
 
-- **[SCHOLATA](https://github.com/ak517ayakshay/project-scholata)**  
-  Comprehensive educational technology platform with integrated assessment tools.
-  > `Django` `MySQL` `Bootstrap`
+    .social-links {
+      display: flex;
+      gap: 20px;
+      margin-top: 20px;
+    }
 
-### Research & Development
-- **[Machine Learning Research](https://github.com/ak517ayakshay/supervised-learning)**  
-  Advanced implementations of supervised learning algorithms and optimization techniques.
+    .social-btn {
+      padding: 10px 25px;
+      border: 2px solid var(--light);
+      border-radius: 10px;
+      color: var(--light);
+      text-decoration: none;
+      font-weight: 600;
+      transition: all 0.3s ease;
+    }
 
-- **[Database Architecture](https://github.com/ak517ayakshay/my-sql)**  
-  Research on database optimization and high-performance query execution.
+    .social-btn:hover {
+      background: var(--light);
+      color: var(--primary);
+      transform: translateY(-2px);
+    }
 
-## Professional Metrics
+    .skills-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 30px;
+      margin: 60px 0;
+    }
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ak517ayakshay&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=333333"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak517ayakshay&layout=compact&theme=transparent&hide_border=true&title_color=2F80ED&text_color=333333"/>
-</div>
+    .skill-card {
+      background: var(--card-bg);
+      border-radius: 15px;
+      padding: 30px;
+      border: 1px solid rgba(255,255,255,0.1);
+      transition: transform 0.3s ease;
+    }
 
-## Development Activity
+    .skill-card:hover {
+      transform: translateY(-5px);
+    }
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" alt="Development Activity"/>
-</div>
+    .skill-title {
+      color: var(--primary);
+      font-size: 1.2em;
+      margin: 0 0 15px 0;
+    }
 
----
+    .skill-list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ak517ayakshay&style=flat-square&color=2F80ED&label=Profile+Views"/>
-</div>
+    .skill-list li {
+      margin: 10px 0;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .skill-list li::before {
+      content: '▹';
+      color: var(--primary);
+    }
+
+    .projects-section {
+      margin: 60px 0;
+    }
+
+    .section-title {
+      font-size: 2em;
+      margin-bottom: 30px;
+      color: var(--primary);
+    }
+
+    .project-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 30px;
+    }
+
+    .project-card {
+      background: var(--card-bg);
+      border-radius: 15px;
+      padding: 30px;
+      border: 1px solid rgba(255,255,255,0.1);
+      transition: all 0.3s ease;
+    }
+
+    .project-card:hover {
+      transform: translateY(-5px);
+      border-color: var(--primary);
+    }
+
+    .project-title {
+      color: var(--light);
+      margin: 0 0 15px 0;
+      font-size: 1.4em;
+    }
+
+    .project-desc {
+      color: rgba(255,255,255,0.7);
+      margin: 0 0 20px 0;
+      line-height: 1.6;
+    }
+
+    .tech-stack {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .tech-tag {
+      padding: 5px 15px;
+      background: rgba(33, 147, 176, 0.1);
+      border-radius: 20px;
+      font-size: 0.9em;
+      color: var(--primary);
+    }
+
+    .stats-section {
+      margin: 60px 0;
+      text-align: center;
+    }
+
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 30px;
+      margin-top: 30px;
+    }
+
+    .stat-card {
+      background: var(--card-bg);
+      border-radius: 15px;
+      padding: 30px;
+      border: 1px solid rgba(255,255,255,0.1);
+    }
+
+    .stat-number {
+      font-size: 2.5em;
+      color: var(--primary);
+      font-weight: 700;
+    }
+
+    .stat-label {
+      margin-top: 10px;
+      color: rgba(255,255,255,0.7);
+    }
+
+    footer {
+      text-align: center;
+      margin-top: 60px;
+      padding: 20px;
+      color: rgba(255,255,255,0.5);
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="hero">
+      <img src="/api/placeholder/200/200" alt="Profile" class="profile-img">
+      <div class="hero-content">
+        <h1 class="hero-title">Akshay Kumar</h1>
+        <p class="hero-subtitle">Full-Stack Developer • Ex-IISc Research Intern</p>
+        <div class="social-links">
+          <a href="https://ak517ay.vercel.app/" class="social-btn">Portfolio</a>
+          <a href="https://www.linkedin.com/in/akshay-kumar-7a8857255/" class="social-btn">LinkedIn</a>
+          <a href="https://github.com/ak517ayakshay" class="social-btn">GitHub</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="skills-grid">
+      <div class="skill-card">
+        <h3 class="skill-title">Languages</h3>
+        <ul class="skill-list">
+          <li>Python</li>
+          <li>C++</li>
+          <li>C</li>
+        </ul>
+      </div>
+      <div class="skill-card">
+        <h3 class="skill-title">Frontend</h3>
+        <ul class="skill-list">
+          <li>HTML5</li>
+          <li>CSS3</li>
+          <li>Bootstrap</li>
+          <li>Tailwind</li>
+        </ul>
+      </div>
+      <div class="skill-card">
+        <h3 class="skill-title">Backend</h3>
+        <ul class="skill-list">
+          <li>Django</li>
+          <li>MySQL</li>
+          <li>REST APIs</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="projects-section">
+      <h2 class="section-title">Featured Projects</h2>
+      <div class="project-grid">
+        <div class="project-card">
+          <h3 class="project-title">C.L.A.S.S</h3>
+          <p class="project-desc">Advanced learning management system with analytics and personalized learning paths.</p>
+          <div class="tech-stack">
+            <span class="tech-tag">Django</span>
+            <span class="tech-tag">MySQL</span>
+            <span class="tech-tag">Analytics</span>
+          </div>
+        </div>
+        <div class="project-card">
+          <h3 class="project-title">PRECISION-VISION</h3>
+          <p class="project-desc">Computer vision system for real-time object detection and analysis.</p>
+          <div class="tech-stack">
+            <span class="tech-tag">Python</span>
+            <span class="tech-tag">OpenCV</span>
+            <span class="tech-tag">Deep Learning</span>
+          </div>
+        </div>
+        <div class="project-card">
+          <h3 class="project-title">SCHOLATA</h3>
+          <p class="project-desc">Educational platform with integrated assessment tools.</p>
+          <div class="tech-stack">
+            <span class="tech-tag">Django</span>
+            <span class="tech-tag">MySQL</span>
+            <span class="tech-tag">Bootstrap</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="stats-section">
+      <h2 class="section-title">Achievement Highlights</h2>
+      <div class="stats-grid">
+        <div class="stat-card">
+          <div class="stat-number">10+</div>
+          <div class="stat-label">Projects Completed</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-number">1000+</div>
+          <div class="stat-label">Contributions</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-number">5+</div>
+          <div class="stat-label">Technologies Mastered</div>
+        </div>
+      </div>
+    </div>
+
+    <footer>
+      <p>© 2024 Akshay Kumar. All rights reserved.</p>
+    </footer>
+  </div>
+</body>
+</html>
