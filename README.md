@@ -1,341 +1,143 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    :root {
-      --primary: #2193b0;
-      --gradient: linear-gradient(135deg, #2193b0 0%, #6dd5ed 100%);
-      --dark: #1a1a1a;
-      --light: #ffffff;
-      --card-bg: rgba(255, 255, 255, 0.05);
-    }
+<h1 align="center">
+  ⚡️ Akshay Kumar | Digital Architect ⚡️
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=640&lines=Building+the+Future+with+Code;Turning+Complex+Problems+into+Elegant+Solutions;Creating+Impact+Through+Technology;Ex-IISc+Research+Intern" alt="Typing SVG" />
+</h1>
 
-    body {
-      background: var(--dark);
-      color: var(--light);
-      font-family: 'Inter', sans-serif;
-      margin: 0;
-      padding: 40px;
-    }
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ak517ayakshay&label=Visionary+Minds&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</div>
 
-    .container {
-      max-width: 1200px;
-      margin: 0 auto;
-    }
+---
 
-    .hero {
-      display: flex;
-      align-items: center;
-      gap: 40px;
-      padding: 60px 0;
-      border-radius: 20px;
-      background: var(--gradient);
-      position: relative;
-      overflow: hidden;
-    }
+<h2 align="center">🎯 Mission Statement</h2>
 
-    .hero::before {
-      content: '';
-      position: absolute;
-      width: 100%;
-      height: 100%;
-      background: url('/api/placeholder/1200/400') center/cover;
-      opacity: 0.1;
-      animation: pulse 4s infinite;
-    }
+```python
+class DigitalArchitect:
+    def __init__(self):
+        self.name = "Akshay Kumar"
+        self.role = "Full-Stack Engineer"
+        self.experience = "IISc Research Intern"
+        self.languages = ["Python", "C++", "C"]
+        self.mission = "Crafting digital solutions that transform ideas into reality"
+        
+    def current_focus(self):
+        return "Mastering Advanced Django Architecture and System Design"
+        
+    def fun_fact(self):
+        return "I believe every line of code has the potential to change the world"
 
-    @keyframes pulse {
-      0% { opacity: 0.1; }
-      50% { opacity: 0.2; }
-      100% { opacity: 0.1; }
-    }
+me = DigitalArchitect()
+```
 
-    .profile-img {
-      width: 200px;
-      height: 200px;
-      border-radius: 20px;
-      border: 4px solid var(--light);
-      box-shadow: 0 10px 30px rgba(0,0,0,0.3);
-      margin-left: 40px;
-      position: relative;
-      z-index: 1;
-    }
+---
 
-    .hero-content {
-      position: relative;
-      z-index: 1;
-    }
+<h2 align="center">🛠️ Technical Arsenal</h2>
 
-    .hero-title {
-      font-size: 3em;
-      margin: 0;
-      font-weight: 800;
-      background: var(--light);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-    }
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3>Core Engineering</h3>
+      <img src="https://skillicons.dev/icons?i=c,cpp,python" /><br>
+      <i>Building Foundations</i>
+    </td>
+    <td align="center">
+      <h3>Frontend Crafting</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma" /><br>
+      <i>Designing Experiences</i>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>Backend Architecture</h3>
+      <img src="https://skillicons.dev/icons?i=mysql,django" /><br>
+      <i>Powering Solutions</i>
+    </td>
+    <td align="center">
+      <h3>Development Arsenal</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,vscode" /><br>
+      <i>Crafting Excellence</i>
+    </td>
+  </tr>
+</table>
 
-    .hero-subtitle {
-      font-size: 1.5em;
-      margin: 10px 0;
-      opacity: 0.9;
-    }
+---
 
-    .social-links {
-      display: flex;
-      gap: 20px;
-      margin-top: 20px;
-    }
+<h2 align="center">🌟 Digital Portfolio</h2>
 
-    .social-btn {
-      padding: 10px 25px;
-      border: 2px solid var(--light);
-      border-radius: 10px;
-      color: var(--light);
-      text-decoration: none;
-      font-weight: 600;
-      transition: all 0.3s ease;
-    }
+<table align="center">
+  <tr>
+    <td>
+      <h3>🏗️ Flagship Projects</h3>
+      <ul>
+        <li>
+          <a href="https://github.com/ak517ayakshay/C.L.A.S.S">C.L.A.S.S</a><br>
+          <i>Revolutionary learning management system transforming educational paradigms</i>
+        </li>
+        <li>
+          <a href="https://github.com/ak517ayakshay/PRECISION-VISION">PRECISION-VISION</a><br>
+          <i>Advanced computer vision system pushing the boundaries of visual recognition</i>
+        </li>
+        <li>
+          <a href="https://github.com/ak517ayakshay/project-scholata">SCHOLATA</a><br>
+          <i>Next-gen educational platform redefining academic excellence</i>
+        </li>
+      </ul>
+    </td>
+    <td>
+      <h3>🧪 Research & Innovation</h3>
+      <ul>
+        <li>
+          <a href="https://github.com/ak517ayakshay/supervised-learning">ML Research</a><br>
+          <i>Pioneering supervised learning algorithms</i>
+        </li>
+        <li>
+          <a href="https://github.com/ak517ayakshay/my-sql">Database Architecture</a><br>
+          <i>Advanced MySQL implementations and optimizations</i>
+        </li>
+        <li>
+          <a href="https://github.com/ak517ayakshay/python">Python Innovation Lab</a><br>
+          <i>Experimental Python patterns and practices</i>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-    .social-btn:hover {
-      background: var(--light);
-      color: var(--primary);
-      transform: translateY(-2px);
-    }
+---
 
-    .skills-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-      gap: 30px;
-      margin: 60px 0;
-    }
+<div align="center">
+  <h2>📊 Innovation Metrics</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ak517ayakshay&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&custom_title=Technology%20Spectrum" alt="Technology Spectrum" />
+</div>
 
-    .skill-card {
-      background: var(--card-bg);
-      border-radius: 15px;
-      padding: 30px;
-      border: 1px solid rgba(255,255,255,0.1);
-      transition: transform 0.3s ease;
-    }
+---
 
-    .skill-card:hover {
-      transform: translateY(-5px);
-    }
+<h2 align="center">🌐 Digital Presence</h2>
 
-    .skill-title {
-      color: var(--primary);
-      font-size: 1.2em;
-      margin: 0 0 15px 0;
-    }
+<div align="center">
+  <a href="https://ak517ay.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/akshay-kumar-7a8857255/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/ak517ayakshay" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
-    .skill-list {
-      list-style: none;
-      padding: 0;
-      margin: 0;
-    }
+---
 
-    .skill-list li {
-      margin: 10px 0;
-      display: flex;
-      align-items: center;
-      gap: 10px;
-    }
+<div align="center">
+  <h2>🌿 Growth Journey</h2>
+  <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" alt="Contribution Growth" />
+</div>
 
-    .skill-list li::before {
-      content: '▹';
-      color: var(--primary);
-    }
-
-    .projects-section {
-      margin: 60px 0;
-    }
-
-    .section-title {
-      font-size: 2em;
-      margin-bottom: 30px;
-      color: var(--primary);
-    }
-
-    .project-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-      gap: 30px;
-    }
-
-    .project-card {
-      background: var(--card-bg);
-      border-radius: 15px;
-      padding: 30px;
-      border: 1px solid rgba(255,255,255,0.1);
-      transition: all 0.3s ease;
-    }
-
-    .project-card:hover {
-      transform: translateY(-5px);
-      border-color: var(--primary);
-    }
-
-    .project-title {
-      color: var(--light);
-      margin: 0 0 15px 0;
-      font-size: 1.4em;
-    }
-
-    .project-desc {
-      color: rgba(255,255,255,0.7);
-      margin: 0 0 20px 0;
-      line-height: 1.6;
-    }
-
-    .tech-stack {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 10px;
-    }
-
-    .tech-tag {
-      padding: 5px 15px;
-      background: rgba(33, 147, 176, 0.1);
-      border-radius: 20px;
-      font-size: 0.9em;
-      color: var(--primary);
-    }
-
-    .stats-section {
-      margin: 60px 0;
-      text-align: center;
-    }
-
-    .stats-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-      gap: 30px;
-      margin-top: 30px;
-    }
-
-    .stat-card {
-      background: var(--card-bg);
-      border-radius: 15px;
-      padding: 30px;
-      border: 1px solid rgba(255,255,255,0.1);
-    }
-
-    .stat-number {
-      font-size: 2.5em;
-      color: var(--primary);
-      font-weight: 700;
-    }
-
-    .stat-label {
-      margin-top: 10px;
-      color: rgba(255,255,255,0.7);
-    }
-
-    footer {
-      text-align: center;
-      margin-top: 60px;
-      padding: 20px;
-      color: rgba(255,255,255,0.5);
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <div class="hero">
-      <img src="/api/placeholder/200/200" alt="Profile" class="profile-img">
-      <div class="hero-content">
-        <h1 class="hero-title">Akshay Kumar</h1>
-        <p class="hero-subtitle">Full-Stack Developer • Ex-IISc Research Intern</p>
-        <div class="social-links">
-          <a href="https://ak517ay.vercel.app/" class="social-btn">Portfolio</a>
-          <a href="https://www.linkedin.com/in/akshay-kumar-7a8857255/" class="social-btn">LinkedIn</a>
-          <a href="https://github.com/ak517ayakshay" class="social-btn">GitHub</a>
-        </div>
-      </div>
-    </div>
-
-    <div class="skills-grid">
-      <div class="skill-card">
-        <h3 class="skill-title">Languages</h3>
-        <ul class="skill-list">
-          <li>Python</li>
-          <li>C++</li>
-          <li>C</li>
-        </ul>
-      </div>
-      <div class="skill-card">
-        <h3 class="skill-title">Frontend</h3>
-        <ul class="skill-list">
-          <li>HTML5</li>
-          <li>CSS3</li>
-          <li>Bootstrap</li>
-          <li>Tailwind</li>
-        </ul>
-      </div>
-      <div class="skill-card">
-        <h3 class="skill-title">Backend</h3>
-        <ul class="skill-list">
-          <li>Django</li>
-          <li>MySQL</li>
-          <li>REST APIs</li>
-        </ul>
-      </div>
-    </div>
-
-    <div class="projects-section">
-      <h2 class="section-title">Featured Projects</h2>
-      <div class="project-grid">
-        <div class="project-card">
-          <h3 class="project-title">C.L.A.S.S</h3>
-          <p class="project-desc">Advanced learning management system with analytics and personalized learning paths.</p>
-          <div class="tech-stack">
-            <span class="tech-tag">Django</span>
-            <span class="tech-tag">MySQL</span>
-            <span class="tech-tag">Analytics</span>
-          </div>
-        </div>
-        <div class="project-card">
-          <h3 class="project-title">PRECISION-VISION</h3>
-          <p class="project-desc">Computer vision system for real-time object detection and analysis.</p>
-          <div class="tech-stack">
-            <span class="tech-tag">Python</span>
-            <span class="tech-tag">OpenCV</span>
-            <span class="tech-tag">Deep Learning</span>
-          </div>
-        </div>
-        <div class="project-card">
-          <h3 class="project-title">SCHOLATA</h3>
-          <p class="project-desc">Educational platform with integrated assessment tools.</p>
-          <div class="tech-stack">
-            <span class="tech-tag">Django</span>
-            <span class="tech-tag">MySQL</span>
-            <span class="tech-tag">Bootstrap</span>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="stats-section">
-      <h2 class="section-title">Achievement Highlights</h2>
-      <div class="stats-grid">
-        <div class="stat-card">
-          <div class="stat-number">10+</div>
-          <div class="stat-label">Projects Completed</div>
-        </div>
-        <div class="stat-card">
-          <div class="stat-number">1000+</div>
-          <div class="stat-label">Contributions</div>
-        </div>
-        <div class="stat-card">
-          <div class="stat-number">5+</div>
-          <div class="stat-label">Technologies Mastered</div>
-        </div>
-      </div>
-    </div>
-
-    <footer>
-      <p>© 2024 Akshay Kumar. All rights reserved.</p>
-    </footer>
-  </div>
-</body>
-</html>
+<div align="center">
+  <h3>💭 Engineering Philosophy</h3>
+  
+  ```
+  "Innovation is not about what we create, 
+   but about the problems we solve and the lives we improve."
+  ```
+</div>
