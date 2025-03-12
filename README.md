@@ -11,7 +11,7 @@
 🔹 **🎯 Hustling to be in the top 0.1%**  
 🔹 **✨ Currently diving deep into Advanced Django**  
 
-🌐 **[Visit My Portfolio](https://ak517ay.vercel.app/)**  
+🌐 **[Visit My Portfolio](https://ak517ayakshayportfoliov2.vercel.app/)**  
 
 ---
 
