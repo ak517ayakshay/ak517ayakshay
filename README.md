@@ -9,7 +9,6 @@
 ## 🚀 About Me  
 🔹 **Ex-Intern @ IISc, Bangalore**  
 🔹 **Intern @ Practo Technologies Bangalore**
-
 🔹 **🎯 Hustling to be in the top 0.1%**  
 🔹 **✨ Currently diving deep into Advanced Django**  
 
