@@ -11,10 +11,6 @@
 🔹 **Ex-Intern @ Practo Technologies Bangalore**
 
 
-🔹 **✨ Currently diving deep into Advanced Django**  
-🔹 **🎯 Hustling to be in the top 0.1%**  
-
-
 🌐 **[Visit My Portfolio](https://ak517ayakshayportfoliov2.vercel.app/)**  
 
 ---
